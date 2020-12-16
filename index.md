@@ -12,7 +12,7 @@
     <h1 style="color:white">ADAS AWESOME WEBSITE WHERE I AM AWESOME</h1>
 
     <p style="color:white">I AM ADA AND I AM VERY AWESOME THIS IS MY WEBSITE</p>
-
+    <p style="color:white">JOIN MY AWESOME DISCORD SERVER AT discord.gg/djhR9fGT7z</p> 
 
     <p style="color:white">HALF LIFE AND VALVE ARE VERY COOL LOOK AT THIS</p>
     <img src="/colored_lab.jpg">
