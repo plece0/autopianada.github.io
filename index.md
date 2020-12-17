@@ -27,7 +27,7 @@
       <li style="color:white">ME AGAIN</li>
     </ul>
     
-    <p style="color:white">HOLY SHIT LOOK AT GMAN GO</p>
+    <p style="color:white">HOLY SHIT LOOK AT GMAN GO</p> 
     <img src="/giphy.gif">
     
     <p style="color:white">holy shit its lazypurple</p>
